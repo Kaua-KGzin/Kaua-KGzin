@@ -36,7 +36,7 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 <table>
 <tr>
 <td><strong>🎓 Formação</strong></td>
-<td>Tecnologia em Análise e Desenvolvimento de Sistemas — Centro Universitário FAEL (2023–2026)</td>
+<td>Tecnologia em Análise e Desenvolvimento de Sistemas — Centro Universitário FAEL (2023–2027)</td>
 </tr>
 <tr>
 <td><strong>💼 Cargo Atual</strong></td>
