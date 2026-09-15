@@ -31,7 +31,7 @@ Desenvolvedor Backend com mais de 5 anos de experiência profissional em sistema
 
 Forte base em análise de código e cibersegurança. Experiência com estruturas de dados avançadas (grafos, algoritmo de Tarjan), desenvolvimento de ferramentas publicadas no PyPI e soluções de alto desempenho em múltiplas linguagens — **Python, Go, Rust, C**.
 
-> *Menos mágica, mais entendimento. Código que quebra na produção é código que nunca foi entendido de verdade.*
+> *Menos mágica, mais entendimento.*
 
 <table>
 <tr>
