@@ -20,7 +20,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/kaua-KGzin)
 [![Website](https://img.shields.io/badge/Portfólio-00ff88?style=for-the-badge&logo=vercel&logoColor=000)](https://my-site-kgcode.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kauagabrinus@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/(31)%2099955--7430-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5533999557430)
 
 </div>
 
@@ -28,7 +27,7 @@
 
 ## 👤 Sobre Mim
 
-Desenvolvedor Backend com mais de 5 anos de experiência profissional em sistemas, automação e segurança. Atuo no desenvolvimento de APIs, ferramentas CLI e sistemas web completos para clientes externos, entregando no nível do desenvolvimento ao levantamento de requisitos até deploy e entrega.
+Desenvolvedor Backend com mais de 5 anos de experiência profissional em sistemas, automação e segurança. Hoje atuo como desenvolvedor pleno fullstack, responsável sozinho pelo backend de um sistema ERP/PDV em produção (ASP.NET Core / .NET, EF Core, React/TypeScript), além de contratos freelance anteriores entregando do levantamento de requisitos ao deploy.
 
 Forte base em análise de código e cibersegurança. Experiência com estruturas de dados avançadas (grafos, algoritmo de Tarjan), desenvolvimento de ferramentas publicadas no PyPI e soluções de alto desempenho em múltiplas linguagens — **Python, Go, Rust, C**.
 
@@ -37,11 +36,11 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 <table>
 <tr>
 <td><strong>🎓 Formação</strong></td>
-<td>Tecnologia em Análise e Desenvolvimento de Sistemas — Centro Universitário FAEL · 3° Semestre (2023–2026)</td>
+<td>Tecnologia em Análise e Desenvolvimento de Sistemas — Centro Universitário FAEL (2023–2026)</td>
 </tr>
 <tr>
 <td><strong>💼 Cargo Atual</strong></td>
-<td>Desenvolvedor Freelance Full Stack · Remoto (2022 – Presente)</td>
+<td>Desenvolvedor Pleno Fullstack · Backend lead do sistema ERP/PDV</td>
 </tr>
 <tr>
 <td><strong>🌐 Idiomas</strong></td>
@@ -65,12 +64,10 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 <td>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
 
 </td>
 </tr>
@@ -78,11 +75,10 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 <td><strong>Intermediário</strong></td>
 <td>
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=fff)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=fff)
 
 </td>
 </tr>
@@ -90,30 +86,24 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 
 ### 🔧 Backend & APIs
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
 ![REST](https://img.shields.io/badge/REST_API-00b4d8?style=for-the-badge&logo=fastapi&logoColor=fff)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
 ![CLI Tools](https://img.shields.io/badge/CLI_Tools-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
-![FFI](https://img.shields.io/badge/FFI-525252?style=for-the-badge&logo=rust&logoColor=fff)
 
 ### 🖥️ Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=fff)
 
 ### 🗄️ Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
 ### 🚀 DevOps & Infra
@@ -121,7 +111,6 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=fff)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
 ![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -132,7 +121,6 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 ![Hydra](https://img.shields.io/badge/Hydra-1C1C1C?style=for-the-badge&logo=kalilinux&logoColor=fff)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=fff)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=fff)
-![LGPD](https://img.shields.io/badge/LGPD-00884B?style=for-the-badge&logo=shield&logoColor=fff)
 
 ---
 
@@ -142,15 +130,15 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 <tr>
 <td width="50%" valign="top">
 
-### ⚗️ AcidMP
-**Análise de Estrutura de Implantação · 2024–Presente**
+### 🗺️ ArchMAP
+**Análise Arquitetural de Código · CLI Open-Source**
 
-Pipeline completo de CI/CD com análise de estrutura e validação de builds. Geração automática de relatórios em JSON/HTML, suporte multi-plataforma (Raspberry Pi, Android) e Web UI via REST.
+Ferramenta de linha de comando em Python para análise arquitetural estática de codebases — lê e entende a estrutura do código sem executá-lo. Usa o algoritmo de Tarjan (SCC) para detecção de dependências circulares, suporta 9+ linguagens, publicada no PyPI. Inclui `trace` (alcançabilidade via BFS), `advise` (integração multi-provider com LLMs), `diff` (comparação de snapshots) e extensão para VS Code.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=fff)
-![REST API](https://img.shields.io/badge/API-00b4d8?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=fff)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=fff)
+![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code_Ext-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
 
 </td>
 <td width="50%" valign="top">
@@ -158,7 +146,7 @@ Pipeline completo de CI/CD com análise de estrutura e validação de builds. Ge
 ### 📋 Log Analyser
 **Analisador de Logs em Tempo Real · 2024**
 
-Análise de logs em real-time com envio de métricas para processamento. Métricas por host e serviços, exportação em JSON, saída estruturada e relatório HTML. Alta performance com Rust.
+Análise de logs em real-time com envio de métricas para processamento. Métricas por host e serviços, exportação em JSON, saída estruturada e relatório HTML. Alta performance com Rust (processamento paralelo via Rayon).
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=fff)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=fff)
@@ -172,7 +160,7 @@ Análise de logs em real-time com envio de métricas para processamento. Métric
 ### 🛸 Deploy CLI
 **Orquestrador de Deploy · 2024**
 
-CLI modular (OS, config, deploy) com execução paralela. Suporte a bash/CI automático, configuração YAML por ambiente (staging/production/rollback) e validação em tempo de execução.
+CLI modular (OS, config, deploy) com execução paralela via worker pool. Suporte a bash/CI automático, configuração YAML por ambiente (staging/production/rollback) e validação em tempo de execução.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=fff)
@@ -181,10 +169,10 @@ CLI modular (OS, config, deploy) com execução paralela. Suporte a bash/CI auto
 </td>
 <td width="50%" valign="top">
 
-### 🌿 Bud-Py
+### 🌿 Boot-Py
 **Backup Automatizado · 2024**
 
-Backup local e S3 com compressão ZIP e criptografia. Comparação por hash, upload otimizado para S3 multi-ACL e execução como serviço systemd com agendamento. CLI com suporte a S3/LAN/SSH.
+Backup local e S3 com compressão ZIP e verificação por hash SHA-256. Upload otimizado para S3 multi-ACL e execução como serviço systemd com agendamento.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=fff)
 ![AWS S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazons3&logoColor=fff)
@@ -195,23 +183,22 @@ Backup local e S3 com compressão ZIP e criptografia. Comparação por hash, upl
 <tr>
 <td width="50%" valign="top">
 
-### 📱 NG Flow
-**App de Profissional · Android**
+### 📱 KG Flow
+**App Mobile · Android**
 
-App em React 18 + Vite + Capacitor 5 gerando APK nativo. Notificações locais, feedback háptico e controle de ritmo com acesso personalizado por usuário.
+App em React + Capacitor gerando APK nativo. Notificações locais, feedback háptico e controle de ritmo com acesso personalizado por usuário.
 
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=fff)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=fff)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Simur-Men
+### 🧠 Simuler-Mem
 **Simulador de Memória · 2024**
 
-Simulação de paginação real com demanda e algoritmo LRU. Proteção de memória com segmentation fault intencional, execução como serviço systemd e Makefile completo com targets release, debug e sanitize (ASAN + UBSAN).
+Simulador educacional de gerenciamento de memória em C: paginação sob demanda, algoritmo LRU, TLB e segmentação, com foco em fundamentos de Sistemas Operacionais. Makefile com targets release, debug e sanitize (ASAN + UBSAN).
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=cmake&logoColor=fff)
@@ -266,6 +253,7 @@ Simulação de paginação real com demanda e algoritmo LRU. Proteção de memó
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
