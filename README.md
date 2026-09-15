@@ -40,7 +40,7 @@ Forte base em análise de código e cibersegurança. Experiência com estruturas
 </tr>
 <tr>
 <td><strong>💼 Cargo Atual</strong></td>
-<td>Desenvolvedor Pleno Fullstack · Backend lead do sistema ERP/PDV</td>
+<td>Desenvolvedor Fullstack · XXX</td>
 </tr>
 <tr>
 <td><strong>🌐 Idiomas</strong></td>
