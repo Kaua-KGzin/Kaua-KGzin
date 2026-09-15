@@ -314,14 +314,15 @@ Aplicação web/mobile inspirada em sistemas de progressão de RPG, combinando h
 
 Além dos projetos principais, mantenho experimentos e ferramentas menores que exploram diferentes áreas da engenharia de software.
 
-| Projeto          | Área                            | Tecnologia         |
-| ---------------- | ------------------------------- | ------------------ |
-| **Log Analyser** | Processamento e análise de logs | Rust               |
-| **Deploy CLI**   | Automação de deploy             | Go                 |
-| **Boot-Py**      | Backup e automação              | Python             |
-| **Simuler-Mem**  | Sistemas Operacionais           | C                  |
-| **CodeKG**       | Site / frontend                 | React · TypeScript |
-| **KG Flow**      | Aplicação mobile                | React · Capacitor  |
+| Projeto           | Área                                                   | Tecnologia         |
+| ----------------- | ------------------------------------------------------ | ------------------ |
+| **Log Analyser**  | Processamento e análise de logs                        | Rust               |
+| **Deploy CLI**    | Automação de deploy                                    | Go                 |
+| **Boot-Py**       | Backup e automação                                     | Python             |
+| **Simuler-Mem**   | Sistemas Operacionais                                  | C                  |
+| **CS2 Education** | Estudo de processos, memória e sistemas de baixo nível | C++                |
+| **CodeKG**        | Site / frontend                                        | React · TypeScript |
+| **KG Flow**       | Aplicação mobile                                       | React · Capacitor  |
 
 Esses projetos funcionam como laboratório para testar ideias, linguagens, algoritmos e abordagens diferentes.
 
