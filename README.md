@@ -27,7 +27,7 @@
 
 ## 👤 Sobre Mim
 
-Desenvolvedor Backend com mais de 5 anos de experiência profissional em sistemas, automação e segurança. Hoje atuo como desenvolvedor pleno fullstack, responsável sozinho pelo backend de um sistema ERP/PDV em produção (ASP.NET Core / .NET, EF Core, React/TypeScript), além de contratos freelance anteriores entregando do levantamento de requisitos ao deploy.
+Desenvolvedor Backend com mais de 5 anos de experiência profissional em sistemas, automação e segurança. Hoje atuo como desenvolvedor fullstack, responsável sozinho pelo backend de um sistema ERP/PDV em produção (ASP.NET Core / .NET, EF Core, React/TypeScript), além de contratos freelance anteriores entregando do levantamento de requisitos ao deploy.
 
 Forte base em análise de código e cibersegurança. Experiência com estruturas de dados avançadas (grafos, algoritmo de Tarjan), desenvolvimento de ferramentas publicadas no PyPI e soluções de alto desempenho em múltiplas linguagens — **Python, Go, Rust, C**.
 
